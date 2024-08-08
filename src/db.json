@@ -1,0 +1,111 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "categoria": "FrontEnd",
+      "color": "107, 209, 255"
+    },
+    {
+      "id": "2",
+      "categoria": "BackEnd",
+      "color": "0, 200, 111"
+    },
+    {
+      "id": "3",
+      "categoria": "Innovación y Gestión",
+      "color": "255, 168, 5"
+    }
+  ],
+  "destacados": [
+    {
+      "categoria": "Innovación y Gestión",
+      "titulo": "Desafíos y soluciones del trabajo remoto #AluraTips",
+      "descripcion": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto.",
+      "url": "https://www.youtube.com/embed/kIvnVfnmDyE",
+      "id_yt": "kIvnVfnmDyE",
+      "color": "255, 168, 5",
+      "imagen": "",
+      "id": "0"
+    }
+  ],
+  "videos": [
+    {
+      "categoria": "Innovación y Gestión",
+      "titulo": "Desafíos y soluciones del trabajo remoto #AluraTips",
+      "descripcion": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto.",
+      "url": "https://www.youtube.com/embed/kIvnVfnmDyE",
+      "id_yt": "kIvnVfnmDyE",
+      "color": "255,168,5",
+      "imagen": "",
+      "id": "1"
+    },
+    {
+      "categoria": "Innovación y Gestión",
+      "titulo": "Consejos para crear tu Portfolio #aluramás",
+      "descripcion": "¿Quieres destacar como programador y captar la atención de reclutadores y clientes? En este video la instructora Jeanmarie Quijada, te enseñara varios tips esenciales para diseñar y construir un portfolio que muestre tus habilidades y proyectos de manera profesional. ¡Dale Play al video y no te pierdas ninguno de sus consejos!",
+      "url": "https://www.youtube.com/embed/lKaXteKYbSA",
+      "id_yt": "lKaXteKYbSA",
+      "color": "255,168,5",
+      "imagen": "",
+      "id": "2"
+    },
+    {
+      "categoria": "FrontEnd",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips  ",
+      "descripcion": "erminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "url": "https://www.youtube.com/embed/-Ou5c3A225k",
+      "id_yt": "-Ou5c3A225k",
+      "color": "107,209,255",
+      "imagen": "",
+      "id": "3"
+    },
+    {
+      "categoria": "FrontEnd",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "url": "https://www.youtube.com/embed/UuAX5azcvDQ",
+      "id_yt": "UuAX5azcvDQ",
+      "color": "107,209,255",
+      "imagen": "",
+      "id": "4"
+    },
+    {
+      "categoria": "FrontEnd",
+      "titulo": "Frameworks de Front End - Edición especial",
+      "descripcion": "¿Quieres conocer sobre los frameworks más utilizados en el mercado hoy en día? En este video nuestro instructor de Front End nos explicarás cuáles son los frameworks de Front más conocidos y las diferencias entre ellos.",
+      "url": "https://www.youtube.com/embed/UNeKzI2WHgQ",
+      "id_yt": "UNeKzI2WHgQ",
+      "color": "107,209,255",
+      "imagen": "",
+      "id": "5"
+    },
+    {
+      "categoria": "BackEnd",
+      "titulo": "Especialidad BACKEND | RESUMEN SEMANA 1 - 3 | Oracle Next Education + Alura Latam",
+      "descripcion": "5,249 vistas  25 feb 2023  Oracle Next Education + Alura Latam Bienvenidos al Resumen de la semana 1, 2 y 3 de la especialización en Backend de Oracle Next Education",
+      "url": "https://www.youtube.com/embed/b71kWley8-o",
+      "id_yt": "b71kWley8-o",
+      "color": "0,200,111",
+      "imagen": "",
+      "id": "6"
+    },
+    {
+      "categoria": "BackEnd",
+      "titulo": "Desmistificando el Back-End",
+      "descripcion": "¿Qué es backend?  ¿Por qué debería comenzar mi carrera con backend? ¿Cuáles son las skills necesarias para ser un buen desarrollador backend? ¿Qué hace un desarrollador backend en su dia a dia laboral? Esas y otras preguntas serán respondidas en este evento, en el que vamos a hablar con Maria Fernanda Ferreira y Diego Arguelles dos programadores Back End e Instructores de Alura.",
+      "url": "https://www.youtube.com/embed/LLt7FreeHfQ",
+      "id_yt": "LLt7FreeHfQ",
+      "color": "0,200,111",
+      "imagen": "",
+      "id": "7"
+    },
+    {
+      "id": "8cf4",
+      "titulo": "titulo 2",
+      "categoria": "FrontEnd",
+      "imagen": "",
+      "url": "https://www.youtube.com/embed/QAjNORYesW8?si=aaxM2uoUQ1ittJJ6",
+      "descripcion": ""
+    }
+  ]
+}
