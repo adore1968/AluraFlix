@@ -1,6 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { useState } from "react";
+import logo from "/logo_aluraflix.png";
 
 function Header() {
   const { pathname } = useLocation();
@@ -25,7 +26,7 @@ function Header() {
     <header className="relative p-6 bg-white border-b">
       <div className="flex items-center justify-between">
         <Link to="/">
-          <img src="/logo_aluraflix.png" alt="logo_aluraflix" />
+          <img src={logo} alt="logo_aluraflix" />
         </Link>
 
         <div className="sm:hidden text-2xl cursor-pointer" onClick={handleShow}>
